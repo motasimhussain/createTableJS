@@ -4,8 +4,7 @@ createTableJS
 
 
 ## Download
-* [Version 0.1](https://github.com/username/sw-name/archive/master.zip)
-* Other Versions
+* [Version 0.1](https://github.com/motasimhussain/createTableJS/archive/master.zip)
 
 ## Version 
 * Version 0.1
