@@ -1,14 +1,16 @@
 /*
 
-createTable(null,2,4,{
+createTable(null,4,4,{
 	head:["a","b","c","d"],
 	body:{
 		r1:["a","b","c","d"],
 		r2:["a","b","c","d"],
 		r3:["a","b","c","d"],
 		r4:["a","b","c","d"]
-	}
-	
+	},
+	class:"table",
+	id:"tbl1"
+
 });
 
 */
@@ -49,7 +51,14 @@ function createTable(table, rows, cells, content) {
 	        }
 	        body.appendChild(row);
 	    }
-	    table.setAttribute('class', 'table table-hover');
+	    		
+	}
+
+	if(content.class){
+    	table.setAttribute('class', content.class);
+	}
+	if(content.id){
+		table.setAttribute('id', content.id);
 	}
     return table;
 }
