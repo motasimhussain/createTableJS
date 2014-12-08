@@ -18,4 +18,4 @@ createTableJS
 * e-mail: mtasimhussain@gmail.com
 * Twitter: [@motasim_hussain](https://twitter.com/motasim_hussain "Motasim_hussain on twitter")
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/username/sw-name&title=sw-name&language=&tags=github&category=software) 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=motasimhussain&url=https://github.com/motasimhussain/createTableJS&title=createTableJS&language=&tags=github&category=software) 
